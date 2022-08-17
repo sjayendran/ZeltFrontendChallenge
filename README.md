@@ -3,9 +3,9 @@
 ## Objective
 - Using the available mock data, create a configurable widget system, with widget list on page load.
 - Examples of widgets using existing mock API data:
- - Upcoming Birthdays
- - Pending Absence Requests
- - Missing Documents
+  - Upcoming Birthdays
+  - Pending Absence Requests
+  - Missing Documents
 
 
 ## Getting Started
