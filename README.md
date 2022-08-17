@@ -18,7 +18,5 @@ npm run dev
 
 ### Prerequisites
 
-```
-NodeJS v16.10
-npm v7.24.0
-```
+- NodeJS v16.10
+- npm v7.24.0
