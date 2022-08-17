@@ -1,4 +1,4 @@
-# Zelt Frontend Test
+# Zelt - Frontend Test
 
 ## Objective
 - Using the available mock data, create a configurable widget system, with widget list on page load.
