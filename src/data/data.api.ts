@@ -1,4 +1,4 @@
-import { Absence, Person, ZeltDocument } from './zelt.interface'
+import { Absence, Person, ZeltDocument } from './data.interface'
 
 export class ZeltAPI {
   static fetchPeopleData(): Person[] {
